@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&family=Roboto&display=swap');
+
+/* font-family: 'Oswald', sans-serif;
+font-family: 'Roboto', sans-serif; */
+
+body{
+    font-family: 'Oswald', sans-serif; 
+}
+
+.navbar{
+    height: 80px;
+    -webkit-box-shadow: 0px 6px 7px 0px rgba(0, 0, 0, 0.15);
+    -moz-box-shadow:    0px 6px 7px 0px rgba(0, 0, 0, 0.15);
+    box-shadow:         0px 6px 7px 0px rgba(0, 0, 0, 0.15);
+    position: fixed;
+    width: 100%;
+    z-index: 9999;
+}
+
+.navbar-light, .bg-light{
+    background-color: #fff !important;
+}
+
+.btn.btn-default{
+    background-color: transparent;
+    border: 2px solid rgb(8, 54, 151);
+    padding: 7px 15px !important;
+    margin: 0 10px;
+    font-size: 18px;
+    height: 45px;
+    width: 160px;
+    color: rgb(8, 54, 151) !important;
+}
+
+
+.banner{
+    padding-top: 12%;
+}
+
+.banner h4{
+    color: darkgray;
+}
+
+.banner h1{
+    font-size: 55px;
+}
+
+.agency{
+    background-color: rgb(231, 225, 225);
+    padding: 6% 0;
+}
+
+
+
+/* 
+Ebenzer
+*/
+
+
+
+/* 
+Ayokunle
+*/
+
+
+
+
+/* 
+Juwon
+*/
