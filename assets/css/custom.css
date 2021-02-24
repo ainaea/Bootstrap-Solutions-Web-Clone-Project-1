@@ -68,3 +68,49 @@ Ayokunle
 /* 
 Juwon
 */
+
+.contact{
+    background-color: darkgray;
+    position: relative;
+
+    
+}
+
+.contact button{
+    width: auto;
+    float:right;
+    position: absolute;
+    bottom:20px;
+    right:80px;
+    
+    
+    
+
+
+    
+}
+
+.footer{
+    background-color: #fff;
+    width:100%;
+}
+
+.form-control{
+    width: 250px;
+}
+
+.footer a{
+    color: rgb(32, 31, 31);
+    display: block;
+}
+
+.footer .row .contact-link2{
+    display: flex;
+
+}
+
+
+
+
+
+
