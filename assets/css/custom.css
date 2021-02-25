@@ -63,9 +63,44 @@ Ebenzer */
 /* 
 Ayokunle
 */
+.technology{
+    background-color: rgb(231, 225, 225);
+    padding: 6% 0;
+}
 
+.tech{
+    padding-top: 3%;
+}
 
+.tech h4{
+    color: darkgray;
+}
 
+.tech h1{
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+.counter {
+    padding: 5% 0;
+}
+
+.counter h5 {
+    color: darkgrey;
+}
+
+.counter h1 {
+    color: rgb(85, 134, 224);
+}
+
+.counter h4 {
+    color: black;
+}
+
+/* .counter .line {
+    border-left: 1px solid darkgrey;
+
+} */
 
 /* 
 Juwon
